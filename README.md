@@ -1,1 +1,1 @@
-Material de estudo para Python.
+Materiais de estudo e projetos Python.
